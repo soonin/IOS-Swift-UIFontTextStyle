@@ -5,7 +5,7 @@ With Dynamic Types the user can specify the preferred text size in the Settings 
 
 ## About
 
-Sample tableView app to Show all IOS System Fonts. 
+Sample app to show Text Dynamic Types Tutorial ( preferredFont ) 
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Sample tableView app to Show all IOS System Fonts.
 You won't need to Download any extra libaray just ```import UIKit``` inside the project 
 
 ##### For additionnal info, please watch the video : 
-[![Real0time Face Tracking](https://img.youtube.com/vi/hpRmuvb7tXc/hqdefault.jpg)](https://youtu.be/hpRmuvb7tXc)
+[![Real0time Face Tracking](https://img.youtube.com/vi/_S1wRlJuDes/hqdefault.jpg)](https://youtu.be/_S1wRlJuDes)
 
 ## License
 
